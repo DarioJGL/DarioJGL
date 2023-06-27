@@ -1,8 +1,11 @@
-### Hi there Mi nombre es Dario Gutierrez 👋
+<p align="center" width="300">
+   <h3 align="center">¡Hey 👋! Soy DarioJGL 👨🏻‍💻</h3>
+</p>
+
 
 <!--
 **DarioJGL/DarioJGL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img align="center" width="200" src="https://raw.githubusercontent.com/DarioJGL/DarioJGL/master/dario.jpg" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
